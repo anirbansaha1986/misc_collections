@@ -12,3 +12,6 @@ https://www.indeed.com/career-advice/career-development/how-to-write-effective-r
 ### whats After RFP
 ![image](https://user-images.githubusercontent.com/40743779/188532922-33529db6-321c-4f2a-9eb9-c410836e1a2f.png)
 
+## Greenfield/Brownfield
+A greenfield project is a new project that starts from scratch. Whereas, a brownfield project has already gotten worked on by people.
+
