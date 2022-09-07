@@ -14,4 +14,6 @@ https://www.indeed.com/career-advice/career-development/how-to-write-effective-r
 
 ## Greenfield/Brownfield
 A greenfield project is a new project that starts from scratch. Whereas, a brownfield project has already gotten worked on by people.
+https://www.johnadamsit.com/software-development-greenfield-vs-brownfield/
+
 
